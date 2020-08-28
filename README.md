@@ -1,6 +1,4 @@
-<img src="img/Redis-Logo.wine.png" alt="Redis Logo" style="zoom:18%;" />
-
-# LearnRedis
+<img src="img/Redis-Logo.wine.png" alt="Redis Logo" style="zoom:10%;" />**LearnRedis**
 
 ## What is Redis? 
 
